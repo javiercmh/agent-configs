@@ -1,4 +1,5 @@
 ---
+name: editor
 description: Internal behavioral rules for refining, editing, or proofreading text and code comments.
 ---
 
