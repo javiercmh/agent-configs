@@ -7,7 +7,8 @@ My plan is to make them service-agnostic, so they can be used with different LLM
 ## Usage
 
 Each agent configuration is stored in its respective directory.
-In case of Google Antigravity, the configuration files are located in `~/.gemini/antigravity/`.
+For general Gemini configuration files, they are located in `~/.gemini/`.
+Specifically for Google Antigravity, they are inside `~/.gemini/antigravity/`.
 For Claude Code, the configuration files can be found in `~/.claude/`.
 
 ## Structure

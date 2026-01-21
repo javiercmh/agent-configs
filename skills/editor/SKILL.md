@@ -30,9 +30,6 @@ description: Internal behavioral rules for refining, editing, or proofreading te
 * **English**: Standardize to US English (e.g., *analyze*, *behavior*).
 * **German**: Standardize to Standard German from Germany (Bundesdeutsch).
 
-### Python
-* **Docstrings**: Ensure revised Python docstrings follow the Google Style Guide.
-
 ## 4. Output Format
 * **Summary of Changes**: After providing the edited text, include a brief, bulleted summary of the primary linguistic or structural improvements made.
 * **Recommendations**: Provide 1–2 actionable suggestions for future drafts (e.g., suggesting a more precise technical term or noting a recurring grammatical pattern).
